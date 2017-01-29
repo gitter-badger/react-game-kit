@@ -14,6 +14,8 @@
 
 ## Install
 
+[![Join the chat at https://gitter.im/react-game-kit/Lobby](https://badges.gitter.im/react-game-kit/Lobby.svg)](https://gitter.im/react-game-kit/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 `npm install react-game-kit --save`
 
 ## Get Started
